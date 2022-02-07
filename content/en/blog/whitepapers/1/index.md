@@ -8,6 +8,9 @@ description: >
 author: Xinying Qu and Jason Kuruzovich
 ---
 
+{{< imgproc money Fill "600x300" >}}
+{{< /imgproc >}}
+
 In the past decade, crowdfunding has emerged as a popular means by which entrepreneurs raise external financing for their innovative ideas. Compared to traditional fundraising through banks, angels, and venture capital, crowdfunding enables entrepreneurs to create campaigns online and collect money from a large audience (the “crowd”) via internet-based platforms. The fact that anyone can create a campaign on these platforms makes crowdfunding especially appealing to young entrepreneurs. However, building a successful crowdfunding campaign can be challenging. According to the world’s largest crowdfunding platform, Kickstarter, the funding success rate for all the 532,118 campaigns launched on its platform (by August 2021) is 39%, with tech projects achieving the lowest success rate of only 21% . In addition, crowdfunding projects tend to succeed by small margins, or fail by large amounts. On Kickstarter, only 3% of failed campaigns raise 50% of their goals and only 25% of successful campaigns raise 3% over their goals (Mollick, 2014). Given the challenges in crowdfunding, entrepreneurs shall strategically design their campaigns and effectively communicate with potential investors to improve their funding performance.
 
 > 1. Expand your social network size before launching your crowdfunding campaign.
