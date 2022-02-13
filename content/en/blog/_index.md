@@ -1,6 +1,6 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
+title: "White Papers"
+linkTitle: "White Papers"
 menu:
   main:
     weight: 30
