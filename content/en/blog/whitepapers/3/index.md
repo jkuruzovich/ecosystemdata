@@ -2,7 +2,7 @@
 ---
 title: "Cybersecurity Growth is Accelerating — In Some Places"
 linkTitle: "Cybersecurity Growth is Accelerating — In Some Places"
-date: 2022-02-13
+date: 2022-02-12
 description: >
   The Complexities in Predicting Investment Success is Cybersecurity Startups 
 author: Aaron Harold
