@@ -8,6 +8,10 @@ description: >
 author: Aaron Harold
 ---
 
+<iframe src="https://player.vimeo.com/video/632996583?h=1b8120a045" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br>
+<small><a href="https://vimeo.com/632996583">Utica College Upstate Entrepreneurship Data Series: Cybersecurity</a> from <a href="https://vimeo.com/user137725042">IITS Classroom Event Support</a> on <a href="https://vimeo.com">Vimeo</a>.</small><p></p>
+
 During the COVID-19 pandemic, companies in every industry turned to technology to ensure their survival. According to a December 2020 survey by the Pew Research Center, work from home (WFH) increased 51% from 20% to 71% for workers who said they could perform their job responsibilities at home. However, as companies shifted to a more technology-driven, WFH business model, they inadvertently increased the attack surface for cyber criminals.
 
 Cyber criminals [overwhelmingly employ ransomware](https://atlasvpn.com/blog/ransomware-accounts-for-81-of-all-financially-motivated-cyberattacks-in-2020) as the means to extort companies of funds. According to cybersecurity vendors BitDefender and CoveWare, the number of ransomware attacks [increased by 485% from 2019 to 2020](https://www.bitdefender.com/files/News/CaseStudies/study/395/Bitdefender-2020-Consumer-Threat-Landscape-Report.pdf) while the average ransom payment increased [43% from Q4 2020 to $220,298](https://www.coveware.com/blog/ransomware-attack-vectors-shift-as-new-software-vulnerability-exploits-abound). Most concerningly, [75% of companies](https://purplesec.us/cyber-security-trends-2021/#Ransomware) that were victims of ransomware attacks were running up-to-date endpoint protection on their systems. Overall, the [total cost of a successful ransomware breach](https://atlasvpn.com/blog/ransomware-accounts-for-81-of-all-financially-motivated-cyberattacks-in-2020) in 2020 was $4.44 million.

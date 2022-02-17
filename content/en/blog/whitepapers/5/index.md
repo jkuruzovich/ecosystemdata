@@ -8,6 +8,10 @@ description: >
 author: Sydney Scaccia
 ---
 
+<iframe src="https://player.vimeo.com/video/642729703?h=bf9fd2b1c5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br>
+<small><a href="https://vimeo.com/642729703">Utica College Upstate Entrepreneurship Data Series: Healthcare</a> from <a href="https://vimeo.com/user137725042">IITS Classroom Event Support</a> on <a href="https://vimeo.com">Vimeo</a>.</small><p></p>
+
 In 2021, [Clair Labs](https://news.crunchbase.com/news/clair-labs-targets-9m-seed-on-contactless-patient-monitoring/), a company focusing on remote healthcare technology, closed $9 million in seed funding to continue improving and developing its technology. Clair Labs was co-founded in 2018 by two Apple employees in hopes of targeting the aging population. The company took off by implementing at-home medical devices with low-acuity patients from hospitals. The technology replaces complicated medical devices and supplies the patients with something easier to use. 
 
 Before closing on the seed funding, though, Clair Labs was a start up company developing new sleep apnea technology from Israel. By adopting this technology, the field is now open for more innovation, improvement, and investment. This means a company like Clair Labs can very much be started anywhere, especially in regions like Upstate New York where there are opportunities for startups and good jobs. 
