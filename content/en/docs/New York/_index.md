@@ -8,5 +8,5 @@ description: >
 
 ---
 
-{{< imgproc newyork Fit "1170x660" >}}
+{{< imgproc investments Fit "1170x660" >}}
 {{< /imgproc >}}
